@@ -1,0 +1,6 @@
+[submodule "NgocAnh_Blog/hugo-theme-minos"]
+	path = NgocAnh_Blog/hugo-theme-minos
+	url = https://github.com/carsonip/hugo-theme-minos.git
+[submodule "NgocAnh_Blog/themes/minos"]
+	path = NgocAnh_Blog/themes/minos
+	url = https://github.com/carsonip/hugo-theme-minos.git

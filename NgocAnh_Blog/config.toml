@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ALICE GRACE - MY BL"
+theme = "minos"
+publishdir = "vzunnbii.github.io"
