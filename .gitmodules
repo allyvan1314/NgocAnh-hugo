@@ -4,3 +4,9 @@
 [submodule "NgocAnh_Blog/themes/minos"]
 	path = NgocAnh_Blog/themes/minos
 	url = https://github.com/carsonip/hugo-theme-minos.git
+[submodule "themes/themes/hermit"]
+	path = themes/themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
